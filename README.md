@@ -9,7 +9,7 @@
 
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Cybersecurity+Student;CTF+Player;Bug+Bounty+Hunter;Content+Writer;Active+Learner%2FResearcher...%3C3" alt="Typing SVG" /></a>
- </p>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
