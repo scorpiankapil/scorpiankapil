@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
 </p>
 
-## <picture><img src = "https://github.com/scorpiankapil/scorpiankapil/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
+# <picture><img src = "https://github.com/scorpiankapil/scorpiankapil/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif">
 
@@ -29,7 +29,7 @@
   become better than my past self.
  
 
-## :triangular_flag_on_post: CTF profiles:
+# :triangular_flag_on_post: CTF profiles:
 
 <div align="center">
  <a href="https://tryhackme.com/p/scorpiankapil"><img src="https://tryhackme-badges.s3.amazonaws.com/scorpiankapil.png" alt="TryHackMe"></a>
