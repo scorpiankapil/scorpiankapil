@@ -13,6 +13,13 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/scorpiankapil/](https://www.linkedin.com/in/scorpiankapil/)
 
+## :triangular_flag_on_post: CTF profiles:
+
+<div align="center">
+ <a href="https://tryhackme.com/p/scorpiankapil"><img src="https://tryhackme-badges.s3.amazonaws.com/lordofficial.png" alt="TryHackMe"></a>
+ <a href="https://app.hackthebox.com/profile/1124741"><img src="https://www.hackthebox.com/badge/image/1188714" alt="HackTheBox"></a>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/scorpiankapil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scorpiankapil" height="30" width="40" /></a>
