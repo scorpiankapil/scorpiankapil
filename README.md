@@ -102,11 +102,11 @@ Along the way, I document my learning, refine my methodology, and aim to develop
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
     </p>
-    <p align="center" title="またね！">Let’s build, break, and learn together. <img src="https://slackmojis.com/emojis/13171-meow_wave/download" height=150></p>
+    <p align="center" title="またね！">Let’s build, break, and learn together. <img src="https://slackmojis.com/emojis/13171-meow_wave/download" height=15></p>
 
 
 <div style="text-align: center;">
-  <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJxYnR5ZWNkZ2l0eHgxbWZ5Nnl6amJpdWFqNnE0cTR1bTZyaWpsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" height=140>
+  <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJxYnR5ZWNkZ2l0eHgxbWZ5Nnl6amJpdWFqNnE0cTR1bTZyaWpsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" height=150>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day">
 </div>
 </body>
