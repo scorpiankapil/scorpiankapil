@@ -106,7 +106,7 @@ Along the way, I document my learning, refine my methodology, and aim to develop
 
 
 <div style="text-align: center;">
-  <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJxYnR5ZWNkZ2l0eHgxbWZ5Nnl6amJpdWFqNnE0cTR1bTZyaWpsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" height=150>
+  <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJxYnR5ZWNkZ2l0eHgxbWZ5Nnl6amJpdWFqNnE0cTR1bTZyaWpsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif" height=140>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day">
 </div>
 </body>
