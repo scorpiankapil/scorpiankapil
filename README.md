@@ -102,7 +102,7 @@ Along the way, I document my learning, refine my methodology, and aim to develop
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
     </p>
-    <p align="center" title="またね！">Let’s build, break, and learn together. <img src="https://slackmojis.com/emojis/13171-meow_wave/download" height=15/></p>
+    <p align="center" title="またね！">Let’s build, break, and learn together. <img src="https://slackmojis.com/emojis/13171-meow_wave/download" height=150></p>
 
 
 <div style="text-align: center;">
